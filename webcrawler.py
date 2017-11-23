@@ -3,7 +3,7 @@
 import requests
 from bs4 import BeautifulSoup
  
-URL = "http://www.phenomenex.com"
+URL = "http://www.google.com"
  
 checkedList = {"/home/index" : True}
  
